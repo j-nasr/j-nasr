@@ -14,4 +14,4 @@ Business Analytics graduate (B.S., Stockton University, 2026) working toward a d
 
 ## Contact
 
-[LinkedIn](www.linkedin.com/in/joseph-nasr-1a3397254) · jnasr1023@gmail.com
+[LinkedIn](https://www.linkedin.com/in/joseph-nasr-1a3397254/) · jnasr1023@gmail.com
