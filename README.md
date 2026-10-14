@@ -8,8 +8,8 @@ Business Analytics graduate (B.S., Stockton University, 2026) working toward a d
 
 | Project | What it shows | Tools |
 |---|---|---|
-| **[NYC Restaurant Inspections Dashboard](https://github.com/j-nasr/restaurant-inspections)** · [Live dashboard](https://public.tableau.com/app/profile/joseph.nasr6142/viz/NYC_Restaurants_17918482745080/NYCRestaurantInspections2023-2026WhereandWhenKitchensFallShort?publish=yes) | Cleaned 282,000 city health-inspection records, answered 7 business questions in SQL, and built an interactive Tableau dashboard. Only 60% of first inspections score in the A range, and scores worsen every summer. | Python, SQL, Tableau |
-| **[Bike-Share Demand Forecasting](https://github.com/j-nasr/bike-sharing)** | Compared five regression models with holdout, leave-one-out and k-fold cross-validation; the best model explains 83% of daily demand variation. | R |
+| **[NYC Restaurant Inspections Dashboard](https://github.com/j-nasr/restaurant-inspections)** · [Live dashboard](https://public.tableau.com/app/profile/joseph.nasr6142/viz/NYC_Restaurants_17918482745080/NYCRestaurantInspections2023-2026WhereandWhenKitchensFallShort?publish=yes) | Cleaned 89,673 NYC health-inspection records covering 27,353 restaurants, answered 7 business questions in SQL, and built an interactive Tableau dashboard. Only 60% of first inspections score in the A range, and scores worsen every summer. | Python, SQL, Tableau |
+| **[Bike-Share Demand Forecasting](https://github.com/j-nasr/bike-sharing)** | Compared five regression models with holdout, leave-one-out and k-fold cross-validation; the best model predicts daily rides within about 800. | R |
 | **[Student Performance Analysis](https://github.com/j-nasr/student-performance)** | Hypothesis tests, regression and an at-risk classifier on a synthetic Kaggle dataset; absences drive GPA far more than study time. | Python, scikit-learn |
 
 ## Contact
